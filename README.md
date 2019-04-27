@@ -12,7 +12,7 @@ To be specific, from this master link:
     - **AC**
     - **Parking**
     - **WiFi**
-    - **Complementary breakfast**
+    - **Complimentary breakfast**
 6. Added **review**, null `( Not yet reviewed )` at first.
 > **Database is delimited with `;`**
 ## filter.sh
@@ -22,7 +22,7 @@ To be specific, from this master link:
     - **AC**
     - **Parking**
     - **WiFi**
-    - **Complementary breakfast**
+    - **Complimentary breakfast**
 2. It can also sort the already filtered out hotels according to:
     - Sort by **price**: 
       - *low to high*
