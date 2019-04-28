@@ -1,5 +1,5 @@
 #!/bin/bash
-#specifying database file
+#specifying the database file
 file="List_of_hotels.txt"
 #making a heading to be used later while saving filtered out hotels
 heading="sed -e '1i\
